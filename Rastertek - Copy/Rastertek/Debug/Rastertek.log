@@ -1,2 +1,19 @@
-﻿  ModelClass.cpp
-  Rastertek.vcxproj -> C:\Users\chris\Desktop\Rastertek - Copy\Debug\Rastertek.exe
+﻿  stdafx.cpp
+  SystemClass.cpp
+e:\atblock3\rastertek - copy\rastertek\systemclass.cpp(53): warning C4316: 'GraphicsClass': object allocated on the heap may not be aligned 16
+  Rastertek.cpp
+  ModelClass.cpp
+  InputClass.cpp
+e:\atblock3\rastertek - copy\rastertek\inputclass.cpp(98): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+  GraphicsClass.cpp
+e:\atblock3\rastertek - copy\rastertek\graphicsclass.cpp(33): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+e:\atblock3\rastertek - copy\rastertek\graphicsclass.cpp(76): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+  D3DClass.cpp
+  TextureShaderClass.cpp
+  TextureClass.cpp
+  LightShaderClass.cpp
+  LightClass.cpp
+  CameraClass.cpp
+e:\atblock3\rastertek - copy\rastertek\cameraclass.cpp(135): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Rastertek.vcxproj -> E:\ATBlock3\Rastertek - Copy\Debug\Rastertek.exe
